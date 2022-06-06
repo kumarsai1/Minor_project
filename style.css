@@ -1,0 +1,67 @@
+.head {
+    text-align: center;
+    height: 100px;
+    padding-top: 20px;
+
+}
+
+.but {
+
+
+    margin-bottom: 10px;
+
+}
+
+.para {
+    text-align: left;
+    padding: 15px;
+}
+
+.row {
+    text-align: left;
+    padding: 25px;
+
+}
+
+.form-label {
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+}
+
+.col-md-4 {
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.form-check,
+.col-12 {
+    margin-top: 15px;
+}
+
+.x {
+    text-align: center;
+}
+
+.embed-responsive {
+    height: 700px;
+
+    width: 1200px;
+
+}
+
+.map {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.paragraph1 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.paragraph {
+
+    margin-bottom: 30px;
+}
